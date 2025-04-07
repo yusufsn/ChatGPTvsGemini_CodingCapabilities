@@ -1,4 +1,5 @@
-# Research Artefact: Unlocking AI Potential: An Investigation of Python Coding Capabilities of ChatGPT and Gemini
+# Research Artefact: 
+# Unlocking AI Potential: An Investigation of Python Coding Capabilities of ChatGPT and Gemini
 
 [https://github.com/yusufsn/ChatGPTvsGemini_CodingCapabilities](https://github.com/yusufsn/ChatGPTvsGemini_CodingCapabilities)
 
