@@ -21,7 +21,7 @@ This is a research artefact for the paper **Unlocking AI Potential: An Investiga
 Submitted to [IEEE International Conference on Smart Computing, IoT, and Machine Learning (SIML) 2025](https://siml.ums.ac.id/2025/)
 
 ## MIT License for code
-Any code in this repository is licensed under the [MIT License](LICENSE.md).
+Any code in this repository is licensed under the [MIT License](LICENSE).
 
 ## CC0 1.0 Universal for dataset
 CC0 [summary](https://creativecommons.org/publicdomain/zero/1.0/) and [legal text](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
