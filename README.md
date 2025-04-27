@@ -18,7 +18,7 @@ This is a research artefact for the paper **Unlocking AI Potential: An Investiga
 * [Syful Islam](https://syful-is.github.io/)
 
 ## Related Paper
-Submitted to [IEEE International Conference on Smart Computing, IoT, and Machine Learning (SIML) 2025](https://siml.ums.ac.id/2025/)
+Accepted for presentation at the [IEEE International Conference on Smart Computing, IoT, and Machine Learning (SIML) 2025](https://siml.ums.ac.id/2025/)
 
 ## MIT License for code
 Any code in this repository is licensed under the [MIT License](LICENSE).
